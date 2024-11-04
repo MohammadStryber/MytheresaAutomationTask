@@ -20,4 +20,4 @@ npm install playwright csv-writer
 npx playwright test
 
 7. fetch any new open PRs using:
-node fetchPRs.js
+node fetchingPRs.js
